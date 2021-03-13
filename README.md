@@ -1,6 +1,6 @@
 # Sobre
 
-Este é um projeto desenvolvido no curso de [CSS Grid Layoyt](https://www.origamid.com/curso/css-grid-layout) da [Origamid](https://www.origamid.com/).
+<div align="center">Este é um projeto desenvolvido no curso de [CSS Grid Layoyt](https://www.origamid.com/curso/css-grid-layout) da [Origamid](https://www.origamid.com/).</div>
 
 <p align="center">
     No curso de CSS Grid Layout aprendemos como criar um layout responsivo no CSS</br>utilizando as propriedades do
